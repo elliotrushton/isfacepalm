@@ -1,0 +1,23 @@
+{
+  "name": "isfacepalm",
+  "version": "0.0.1",
+  "description": "Test whether a string looks like a face palming person",
+  "main": "./index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "files": [
+    "index.js"
+  ],
+  "exports": {
+    ".": [
+      "./index.js"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elliotrushton/isfacepalm.git"
+  },
+  "author": "Elliot Rushton",
+  "license": "MIT"
+}
