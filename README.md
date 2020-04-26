@@ -12,5 +12,6 @@ $ npm install isfacepalm
 
 ```
 isFacepalm("🐶"); // => false
+isFacepalm("🤦"); // => true
 ```
 
